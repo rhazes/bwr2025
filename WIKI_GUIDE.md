@@ -1,4 +1,4 @@
-# Quick Student Wiki Guide
+# Quick Wiki Guide
 
 ## How to edit the wiki
 
